@@ -5,3 +5,4 @@ bs4 == 0.0.1
 
 # E:\Python Desktop Notifier\covid_notifier.py: 4
 win10toast == 0.9
+youtube-dl
